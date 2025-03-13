@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
-    "@babel/core": "^7.5.5",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.5.5",
     "autoprefixer": "^9.6.1",
     "babel-loader": "^8.0.6",
@@ -67,7 +67,7 @@
     "sass-loader": "^7.2.0",
     "sitemap-webpack-plugin": "^0.6.0",
     "style-loader": "^1.0.0",
-    "stylelint": "^10.1.0",
+    "stylelint": "^13.3.1",
     "stylelint-config-standard": "^18.3.0",
     "stylelint-scss": "^3.9.3",
     "stylelint-webpack-plugin": "^0.10.5",
